@@ -1,2 +1,2 @@
 # rierBootstrapp
-Building webpages with Bootstrapp 
+Building webpages with Bootstrap

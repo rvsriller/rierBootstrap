@@ -1,5 +1,6 @@
 body {
   /*Adicionar uma fonte*/
+  font-family: "Raleway", sans-serif;
 }
 
 .navbar {
@@ -7,10 +8,32 @@ body {
 }
 
 .quemsomos {
-  background-color: #dadada;
+  background-color: #f5d549f5;
   color: white;
+  height: 500px;
 }
 
 .margin {
-  padding-bottom: 50px;
+  padding-bottom: 100px;
+  padding-top: 70px;
+}
+
+.parceiros {
+  background-color: #757575;
+  color: white;
+}
+
+h3 {
+  padding-bottom: 40px;
+}
+
+p {
+  padding-top: 20px;
+}
+
+.bg-footer {
+  background-color: #c0a323;
+  color: black;
+  padding-bottom: 80px;
+  padding-top: 30px;
 }

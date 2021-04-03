@@ -7,7 +7,7 @@ body {
   background-color: #c0a323;
 }
 
-.quemsomos {
+.dio {
   background-color: #f5d549f5;
   color: white;
   height: 500px;
@@ -18,7 +18,12 @@ body {
   padding-top: 70px;
 }
 
-.parceiros {
+.bootcamps {
+  background-color: #757575;
+  color: white;
+}
+
+.projects {
   background-color: #757575;
   color: white;
 }

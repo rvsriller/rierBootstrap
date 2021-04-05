@@ -10,7 +10,7 @@ body {
 .dio {
   background-color: cadetblue;
   color: white;
-  height: 500px;
+  height: 800px;
 }
 
 .margin {
@@ -26,6 +26,9 @@ body {
 .projects {
   background-color: #757575;
   color: white;
+}
+
+.projectCard {
 }
 
 h3 {

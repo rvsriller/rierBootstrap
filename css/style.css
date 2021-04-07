@@ -29,6 +29,8 @@ body {
 }
 
 .projectCard {
+  /*Box card design*/
+  background-color: white;
 }
 
 h3 {

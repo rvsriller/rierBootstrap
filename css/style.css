@@ -19,8 +19,9 @@ body {
 }
 
 .bootcamps {
-  background-color: #757575;
+  background-color: #a0d6d8;
   color: white;
+  height: 900px;
 }
 
 .projects {

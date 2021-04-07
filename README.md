@@ -7,3 +7,5 @@ Objective of this project is create a personal portifolio with all projects prov
 HTML Developer Bootcamp
 
 Javascript Game Developer Bootcamp
+
+FrontEnd Developer Bootcamp (coming soon)

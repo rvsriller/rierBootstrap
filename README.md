@@ -8,4 +8,6 @@ HTML Developer Bootcamp
 
 Javascript Game Developer Bootcamp
 
-FrontEnd Developer Bootcamp (coming soon)
+FrontEnd Developer Bootcamp
+
+Open this web page on your (browser)[https://rvsriller.github.com/bootstrap]

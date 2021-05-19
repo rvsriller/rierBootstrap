@@ -10,4 +10,4 @@ Javascript Game Developer Bootcamp
 
 FrontEnd Developer Bootcamp
 
-Open this web page on your (browser)[https://rvsriller.github.com/rierBootstrap]
+[Open](https://rvsriller.github.com/rierBootstrap) this web page on your browser

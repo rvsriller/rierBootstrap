@@ -10,6 +10,10 @@ Javascript Game Developer Bootcamp
 status: Finished!
 
 FrontEnd Developer Bootcamp
-status: current learning
+status: currently learning
+
+User Experience Design
+UID Bootcamp developed by Csaba
+status: currently learning
 
 [Open](https://rvsriller.github.com/rierBootstrap) this web page on your browser

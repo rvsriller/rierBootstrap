@@ -10,5 +10,6 @@ Javascript Game Developer Bootcamp
 status: Finished!
 
 FrontEnd Developer Bootcamp
+status: current learning
 
 [Open](https://rvsriller.github.com/rierBootstrap) this web page on your browser

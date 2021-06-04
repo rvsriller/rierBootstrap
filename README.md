@@ -15,5 +15,6 @@ status: currently learning
 User Experience Design
 UID Bootcamp developed by Csaba
 status: currently learning
+The projects will be published after I build a personal version
 
 [Open](https://rvsriller.github.com/rierBootstrap) this web page on your browser

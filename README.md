@@ -4,6 +4,7 @@ Objective of this project is create a personal portifolio with all projects prov
 I also included some others projects I have been working on, learning new things about Front-End and UX/UI Design!
 
 HTML Developer Bootcamp
+status: concluded
 
 Javascript Game Developer Bootcamp
 

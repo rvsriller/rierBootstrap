@@ -7,7 +7,7 @@ HTML Developer Bootcamp
 status: Finished!
 
 Javascript Game Developer Bootcamp
-status: concluded!
+status: Finished!
 
 FrontEnd Developer Bootcamp
 

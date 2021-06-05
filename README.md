@@ -17,4 +17,4 @@ UID Bootcamp developed by Csaba
 status: currently learning
 The projects will be published after I build a personal version
 
-[Open](https://rvsriller.github.com/rierBootstrap) this web page on your browser
+[Open](https://rvsriller.github.io/rierBootstrap) this web page on your browser

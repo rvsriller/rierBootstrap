@@ -19,6 +19,6 @@ status: currently learning
 User Interface Design
 UID Bootcamp developed by Csaba
 status: currently learning
-The projects will be published after I build a personal version
+The projects will be published when I make some personal interface designs
 
 [Open](https://rvsriller.github.io/rierBootstrap) this web page on your browser

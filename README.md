@@ -7,6 +7,7 @@ HTML Developer Bootcamp
 status: Finished!
 
 This bootcamp teached me fundamental concepts about web development!
+I did learn html and css making clone of some popular web sites
 
 Javascript Game Developer Bootcamp
 status: Finished!

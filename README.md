@@ -6,6 +6,8 @@ I also included some others projects I have been working on, because I am learni
 HTML Developer Bootcamp
 status: Finished!
 
+This bootcamp teached me fundamental concepts about web development!
+
 Javascript Game Developer Bootcamp
 status: Finished!
 

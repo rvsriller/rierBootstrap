@@ -8,6 +8,7 @@ status: Finished!
 
 This bootcamp teached me fundamental concepts about web development!
 I did learn html and css making clone of some popular web sites such as instagram login page and netflix
+Most enjoyable project I learned was Netflix clone, because I could manipulate grids in html
 
 Javascript Game Developer Bootcamp
 status: Finished!

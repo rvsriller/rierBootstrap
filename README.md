@@ -13,9 +13,9 @@ Most enjoyable project I learned was Netflix clone, because I could manipulate g
 Javascript Game Developer Bootcamp
 
 - Dinosaur
-- Memory
-- Genious
 
+- Genious
+- Memory
 - Snake
 - Spaceship
   status: Finished!

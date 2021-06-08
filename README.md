@@ -15,6 +15,7 @@ Javascript Game Developer Bootcamp
 - Snake
 - Memory
 - Genious
+- Dinosaur
   status: Finished!
 
 FrontEnd Developer Bootcamp

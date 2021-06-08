@@ -14,7 +14,6 @@ Javascript Game Developer Bootcamp
 
 - Dinosaur
 - Genious
-- Memory
 
 status: Finished!
 

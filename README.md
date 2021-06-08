@@ -16,6 +16,7 @@ Javascript Game Developer Bootcamp
 - Memory
 - Genious
 - Dinosaur
+- Spaceship
   status: Finished!
 
 FrontEnd Developer Bootcamp

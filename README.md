@@ -14,6 +14,7 @@ Javascript Game Developer Bootcamp
 
 - Snake Game
 - Memory Game
+- Genious Game
   status: Finished!
 
 FrontEnd Developer Bootcamp

@@ -13,7 +13,6 @@ Most enjoyable project I learned was Netflix clone, because I could manipulate g
 Javascript Game Developer Bootcamp
 
 - Dinosaur
-- Genious
 
 status: Finished!
 

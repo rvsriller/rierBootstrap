@@ -16,7 +16,6 @@ Javascript Game Developer Bootcamp
 - Genious
 - Memory
 - Snake
-- Spaceship
 
 status: Finished!
 

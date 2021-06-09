@@ -18,6 +18,7 @@ Projects developed during this journey:
 - Genious
 - Memory
 - Snake
+- Spaceship
 
 status: Finished!
 

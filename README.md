@@ -12,8 +12,6 @@ Most enjoyable project I learned was Netflix clone, because I could manipulate g
 
 Javascript Game Developer Bootcamp
 
-Projects developed during this journey:
-
 status: Finished!
 
 FrontEnd Developer Bootcamp

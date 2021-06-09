@@ -23,6 +23,9 @@ Projects developed during this journey:
 status: Finished!
 
 FrontEnd Developer Bootcamp
+
+Projects developed during this journey:
+
 status: currently learning
 
 User Interface Design

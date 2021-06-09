@@ -14,8 +14,6 @@ Javascript Game Developer Bootcamp
 
 Projects developed during this journey:
 
-- Dinosaur
-
 status: Finished!
 
 FrontEnd Developer Bootcamp

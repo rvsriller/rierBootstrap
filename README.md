@@ -15,7 +15,6 @@ Javascript Game Developer Bootcamp
 Projects developed during this journey:
 
 - Dinosaur
-- Genious
 
 status: Finished!
 

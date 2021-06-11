@@ -22,7 +22,6 @@ Projects developed during this journey:
 - Dinosaur
 - Genious
 - Memory
-- Snake
 
 status: Finished!
 

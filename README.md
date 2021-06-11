@@ -28,6 +28,7 @@ Projects developed during this journey:
 
 - Instagram Clone
 - Netflix Clone
+- Bootstrap Portifolio (This project)
 
 status: currently learning
 

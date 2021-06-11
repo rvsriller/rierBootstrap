@@ -4,14 +4,19 @@ The objective of this project is create a personal portifolio with all projects 
 I also included some others projects I have been working on, because I am learning new things about Front-End and UX/UI Design!
 
 HTML Developer Bootcamp
-status: Finished!
+Projects developed during this journey:
+
+- Instagram Clone
+- Netflix Clone
+- Bootstrap Portifolio (This project)
+- HTML basic Websites
+  status: Finished!
 
 This bootcamp teached me fundamental concepts about web development!
 I did learn html and css making clone of some popular web sites such as instagram login page and netflix
 Most enjoyable project I learned was Netflix clone, because I could manipulate grids in html
 
 Javascript Game Developer Bootcamp
-
 Projects developed during this journey:
 
 - Dinosaur

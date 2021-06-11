@@ -21,7 +21,6 @@ Projects developed during this journey:
 
 - Dinosaur
 - Genious
-- Memory
 
 status: Finished!
 

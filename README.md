@@ -26,6 +26,8 @@ FrontEnd Developer Bootcamp
 
 Projects developed during this journey:
 
+- Instagram Clone
+
 status: currently learning
 
 User Interface Design

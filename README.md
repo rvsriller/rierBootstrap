@@ -27,6 +27,7 @@ FrontEnd Developer Bootcamp
 Projects developed during this journey:
 
 - Instagram Clone
+- Netflix Clone
 
 status: currently learning
 

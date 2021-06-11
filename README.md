@@ -24,13 +24,7 @@ status: Finished!
 
 FrontEnd Developer Bootcamp
 
-Projects developed during this journey:
-
-- Instagram Clone
-- Netflix Clone
-- Bootstrap Portifolio (This project)
-- HTML basic Website
-
+Projects developed during this journey
 status: currently learning
 
 User Interface Design

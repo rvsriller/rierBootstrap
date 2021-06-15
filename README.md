@@ -19,12 +19,20 @@ Most enjoyable project I learned was Netflix clone, because I could manipulate g
 Javascript Game Developer Bootcamp
 Projects developed during this journey:
 
+- Dinosaur
+- Genious
+- Memory
+- Snake
+- Spaceship
+
 status: Finished!
 
 FrontEnd Developer Bootcamp
 
 Projects developed during this journey
 status: currently learning
+
+Test
 
 User Interface Design
 UID Bootcamp developed by Csaba

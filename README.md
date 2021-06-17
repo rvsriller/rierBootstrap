@@ -38,6 +38,7 @@ User Interface Design
 UID Bootcamp developed by Csaba
 
 - Profile Account redesign
+- Dashboard Webpage redesign
 
 status: currently learning
 The projects will be published when I make some personal interface designs

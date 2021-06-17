@@ -36,6 +36,9 @@ Test
 
 User Interface Design
 UID Bootcamp developed by Csaba
+
+- Profile Account redesign
+
 status: currently learning
 The projects will be published when I make some personal interface designs
 

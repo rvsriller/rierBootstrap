@@ -38,7 +38,7 @@ User Interface Design
 UID Bootcamp developed by Csaba
 
 - Profile Account
-- Dashboard Webpage redesign
+- Dashboard Webpage
 - Download file page redesign
 -
 

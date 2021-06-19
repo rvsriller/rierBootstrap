@@ -37,7 +37,7 @@ Test
 User Interface Design
 UID Bootcamp developed by Csaba
 
-- Profile Account redesign
+- Profile Account
 - Dashboard Webpage redesign
 - Download file page redesign
 -

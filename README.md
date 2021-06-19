@@ -39,7 +39,7 @@ UID Bootcamp developed by Csaba
 
 - Profile Account
 - Dashboard Webpage
-- Download file page redesign
+- Download file page
 -
 
 status: currently learning

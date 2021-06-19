@@ -40,7 +40,7 @@ UID Bootcamp developed by Csaba
 - Profile Account
 - Dashboard Webpage
 - Download file page
--
+- Dashboard Data page
 
 status: currently learning
 The projects will be published when I make some personal interface designs

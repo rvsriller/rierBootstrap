@@ -38,7 +38,7 @@ UID Bootcamp developed by Csaba
 - UID #1: Profile Account
 - UID #2: Bank Dashboard
 - UID #3: Download file page
-- UID #4: Dashboard Data design
+- UID #4: Data Dashboard design
 - UID #5:
 
 status: currently learning

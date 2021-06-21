@@ -38,7 +38,7 @@ User Interface Design
 UID Bootcamp developed by Csaba
 
 - UID #1: Profile Account
-- UID #2: Dashboard page
+- UID #2: Dashboard design
 - UID #3: Download file page
 - UID #4: Dashboard Data design
 -

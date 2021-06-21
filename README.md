@@ -32,8 +32,6 @@ FrontEnd Developer Bootcamp
 Projects developed during this journey
 status: currently learning
 
-Test
-
 User Interface Design
 UID Bootcamp developed by Csaba
 

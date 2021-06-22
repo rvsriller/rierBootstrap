@@ -39,7 +39,6 @@ UID Bootcamp developed by Csaba
 - UID #2: Bank Dashboard
 - UID #3: Download file page
 - UID #4: Share Modal design
-- UID #5: Loading
 
 status: currently learning
 The projects will be published when I make some personal interface designs

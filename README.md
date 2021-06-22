@@ -41,7 +41,6 @@ UID Bootcamp developed by Csaba
 - UID #4: Share Modal design
 - UID #5: Loading
 - UID #6: Loading
-- UID #7: Loading
 
 status: currently learning
 The projects will be published when I make some personal interface designs

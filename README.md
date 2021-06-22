@@ -42,7 +42,6 @@ UID Bootcamp developed by Csaba
 - UID #5: Loading
 - UID #6: Loading
 - UID #7: Loading
-- UID #8: Loading
 
 status: currently learning
 The projects will be published when I make some personal interface designs

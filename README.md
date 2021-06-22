@@ -36,7 +36,6 @@ User Interface Design
 UID Bootcamp developed by Csaba
 
 - UID #1: Profile Account
-- UID #2: Bank Dashboard
 
 status: currently learning
 The projects will be published when I make some personal interface designs

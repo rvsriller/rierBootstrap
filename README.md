@@ -36,7 +36,7 @@ User Interface Design
 UID Bootcamp developed by Csaba
 
 - UID #1: Web App User Profile
-- UID #2: Bank Dashboard
+- UID #2: Account Settings
 - UID #3: Download file page
 - UID #4: Share Modal design
 - UID #5: Loading

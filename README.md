@@ -35,7 +35,7 @@ status: currently learning
 User Interface Design
 UID Bootcamp developed by Csaba
 
-- UID #1: Profile Account
+- UID #1: Web App User Profile
 - UID #2: Bank Dashboard
 - UID #3: Download file page
 - UID #4: Share Modal design

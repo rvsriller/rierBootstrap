@@ -40,7 +40,7 @@ UID Bootcamp developed by Csaba
 - UID #3: Download file
 - UID #4: Share Modal design
 - UID #5: Loading
-- UID #6:
+- UID #6: Notification and pages
 - UID #7:
 - UID #8:
 

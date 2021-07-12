@@ -42,7 +42,7 @@ UID Bootcamp developed by Csaba
 - UID Bootcamp #5: Empty State Page
 - UID Bootcamp #6: Notification and Pages
 - UID Bootcamp #7: Course overview Page
-- UID #8: Knowledge centre Page
+- UID Bootcamp #8: Knowledge centre Page
 
 status: currently learning
 The projects will be published when I make some personal interface designs

@@ -41,7 +41,7 @@ UID Bootcamp developed by Csaba
 - UID #4: Share Modal design
 - UID #5: Empty State Page
 - UID #6: Notification and pages
-- UID #7: Course overview page
+- UID #7: Course overview Page
 - UID #8: Knowledge centre Page
 
 status: currently learning

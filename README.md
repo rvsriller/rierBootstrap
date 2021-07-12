@@ -45,7 +45,7 @@ UID Bootcamp developed by Csaba
 - UID Bootcamp #8: Knowledge centre Page
 
 status: currently learning
-The projects will be published when I make some personal interface designs
+The projects will be published after I make some personal interface designs
 
 User Experience Design
 

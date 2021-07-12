@@ -37,7 +37,7 @@ UID Bootcamp developed by Csaba
 
 - UID #1: WebApp User Profile
 - UID #2: Account Settings Page
-- UID #3: Download file
+- UID #3: Download file Page
 - UID #4: Share Modal design
 - UID #5: Empty State
 - UID #6: Notification and pages

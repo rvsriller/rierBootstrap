@@ -39,7 +39,7 @@ UID Bootcamp developed by Csaba
 - UID #2: Account Settings Page
 - UID #3: Download file Page
 - UID #4: Share Modal design
-- UID #5: Empty State
+- UID #5: Empty State Page
 - UID #6: Notification and pages
 - UID #7: Course overview
 - UID #8: Knowledge centre

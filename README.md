@@ -40,7 +40,7 @@ UID Bootcamp developed by Csaba
 - UID Bootcamp #3: Download file Page
 - UID Bootcamp #4: Share Modal design
 - UID Bootcamp #5: Empty State Page
-- UID #6: Notification and Pages
+- UID Bootcamp #6: Notification and Pages
 - UID #7: Course overview Page
 - UID #8: Knowledge centre Page
 

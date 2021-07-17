@@ -36,7 +36,7 @@ User Interface Design
 UID Bootcamp developed by Csaba
 
 - UID Bootcamp #1: WebApp User Profile | Completed
-- UID Bootcamp #2: Account Settings Page
+- UID Bootcamp #2: Account Settings Page | Completed
 - UID Bootcamp #3: Download file Page
 - UID Bootcamp #4: Share Modal design
 - UID Bootcamp #5: Empty State Page

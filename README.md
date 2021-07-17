@@ -21,7 +21,7 @@ Projects developed during this journey:
 
 - Dinosaur Game
 - Genious Game
-- Memory
+- Memory Game
 - Snake
 - Spaceship
 

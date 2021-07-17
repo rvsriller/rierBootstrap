@@ -20,7 +20,7 @@ Javascript Game Developer Bootcamp
 Projects developed during this journey:
 
 - Dinosaur Game
-- Genious
+- Genious Game
 - Memory
 - Snake
 - Spaceship

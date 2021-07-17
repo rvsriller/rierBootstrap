@@ -22,7 +22,7 @@ Projects developed during this journey:
 - Dinosaur Game
 - Genious Game
 - Memory Game
-- Snake
+- Snake Game
 - Spaceship
 
 status: Finished!
